@@ -1,0 +1,19 @@
+.title {
+    background-color: pink;
+    font-family: "Arial";
+    font-weight: bold;
+  }
+  
+  p {
+    font-family: monospace;
+    margin: 10px;
+    padding: 10px;
+    background-color: silver;
+    font-weight: bold;
+  }
+  
+  h1 {
+    text-align: center;
+    background-color: gold;
+    font-weight: bold;
+  }
